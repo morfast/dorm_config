@@ -1,0 +1,18 @@
+# Write your default config options here!
+ subcp=cp936   #支持中文字幕
+
+ vo=x11
+ ao=alsa
+ zoom=1
+ alang=Chinese,chi,zh
+ slang=Chinese,chi,zh
+
+ subcp=cp936   #支持中文字幕
+ #font=/home/xxb/.mplayer/wqy-zenhei.ttf   #选择字体
+ subfont-autoscale=1   #字幕占屏幕的大小
+ subfont-text-scale=5   #字幕的字体大小
+ overlapsub=1   #支持多语言字幕
+ sub-fuzziness=1   #设定字幕自动加载的识别
+ vf=expand=:::::4/3:2   #如果是16:9的影片,字幕可以放在下面的黑框中
+
+
